@@ -1,0 +1,6 @@
+framework module Pods_theKing {
+  umbrella header "Pods-theKing-umbrella.h"
+
+  export *
+  module * { export * }
+}
